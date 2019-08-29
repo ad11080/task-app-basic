@@ -6,7 +6,8 @@
 
 * AWS Cloud9
 * Ruby
-* Git
+* Rails
+* Git(HTTPSからSSH通信へ変更)
 * Heroku
 
 ```
@@ -42,3 +43,4 @@ $ rails server
 
 * **email** : sample@email.com
 * **password** : password
+
